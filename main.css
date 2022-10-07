@@ -3,8 +3,18 @@
   font-weight: bold;
 }
 
-h2,h3 {
+p {
+  max-width: 30rem;
+  height: 10%;
+  text-align: left;
+  object-position: right;
+  margin-left: 5%;
+}
+
+img,h2 {
   font-weight: lighter;
+  display:inline-block;
+  vertical-align: middle;
 }
 
 img{
